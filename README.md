@@ -18,6 +18,9 @@ Informations sur les produits : titres, descriptions, variantes, codes SKU, code
 Informations techniques : jetons d’accès (access tokens) nécessaires pour communiquer avec les API Shopify.
 Nous ne collectons pas directement les informations de paiement de vos clients, ni leurs mots de passe.
 
+Nous n’utilisons les données de votre boutique que pour mettre à jour automatiquement les champs de code HS et de pays d’origine sur vos produits, selon vos réglages.
+Nous ne revendons pas ces données, ne les utilisons pas à des fins marketing, et ne stockons que les informations strictement nécessaires au fonctionnement de l’application (identifiant de boutique, jetons d’accès et paramètres de configuration).
+
 2. Utilisation des informations
 Nous utilisons les informations de votre boutique uniquement pour :
 
